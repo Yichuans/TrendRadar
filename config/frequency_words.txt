@@ -42,6 +42,8 @@ mac
 
 ai
 人工智能
+openai
+claude
 
 机器人
 
@@ -52,9 +54,13 @@ ai
 日本
 
 英国
+伦敦
+剑桥
 
 芯片
 光刻机
+intel
+tsmc
 
 科技
 engadget
@@ -70,5 +76,12 @@ ign
 航空
 
 佳能
+徕卡
+leica
+canon
 R5
 R6
+
+香港
+上海
+北京
