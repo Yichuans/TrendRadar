@@ -1,0 +1,49 @@
+# Operating systems
+.DS_Store
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+ENV/
+env/
+env.bak/
+pip-wheel-metadata/
+htmlcov/
+uv.lock
+
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+*.suo
+*.user
+*.userprefs
+*.sln
+*.swp
+
+# Logs and temp files
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+
+
+# Build artifacts and binaries
+target/
+dist/
+build/
+out/
+*.class
+*.jar
+*.war
+*.ear
+*.o
+*.so
+*.dll
+*.exe
